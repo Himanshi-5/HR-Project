@@ -42,13 +42,13 @@ It analyzes HR data and provides both a **summary view** and a **detailed employ
 https://github.com/Himanshi-5/HR-Project/blob/main/HR%20Dashboard%20overview.png
 
 **Details Dashboard**
-
-
-
-
-
-
-
+https://github.com/Himanshi-5/HR-Project/blob/main/HR%20Dashboard%20detail.png
 
 
 📌 *Guided project by **Baraa Sakib Skalani** | Built in Tableau for HR Analytics & Data Visualization practice.*
+
+
+
+
+
+
