@@ -38,6 +38,13 @@ It analyzes HR data and provides both a **summary view** and a **detailed employ
 - Dashboard Actions for interactivity  
 
 ## Links (Dashboard Screenshot)
+**Overview Dashboard**
+https://github.com/Himanshi-5/HR-Project/blob/main/HR%20Dashboard%20overview.png
+
+**Details Dashboard**
+
+
+
 
 
 
